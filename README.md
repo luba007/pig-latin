@@ -1,4 +1,4 @@
-##Converter to "pig-latin"
+# Converter to "pig-latin"
 1. Write some Java code that translates a string (word, sentence, or paragraph) into “pig-latin” using the following rules.
 2. Words that start with a consonant have their first letter moved to the end of the word and the letters “ay” added to the end.
 * Hello becomes Ellohay
